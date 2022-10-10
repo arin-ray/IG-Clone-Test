@@ -1,2 +1,2 @@
-# IG-Clone-Test
+# Instagram-Clone
 Created with CodeSandbox
